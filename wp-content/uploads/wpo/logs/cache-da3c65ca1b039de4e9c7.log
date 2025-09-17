@@ -1,0 +1,51 @@
+[2025-09-13 09:39:30 : INFO] - Cache for URL: http://localhost/thiepmoi-online/home-page/ has been purged, triggered by action: save_post 
+[2025-09-13 09:39:30 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "home page" has been purged, triggered by action: save_post 
+[2025-09-17 02:32:26 : INFO] - Cache for URL: http://localhost/thiepmoi-online/home-page/ has been purged, triggered by action: save_post 
+[2025-09-17 02:32:26 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "home page" has been purged, triggered by action: save_post 
+[2025-09-17 02:32:26 : INFO] - Cache for URL: http://localhost/thiepmoi-online/home-page/ has been purged, triggered by action: save_post 
+[2025-09-17 02:32:26 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "home page" has been purged, triggered by action: save_post 
+[2025-09-17 02:32:27 : INFO] - Cache for URL: http://localhost/thiepmoi-online/home-page/ has been purged, triggered by action: save_post 
+[2025-09-17 02:32:27 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "home page" has been purged, triggered by action: save_post 
+[2025-09-17 03:06:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-09-17 03:07:26 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-09-17 03:07:26 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: wp_template and Title: "Blog Home" has been purged, triggered by action: save_post 
+[2025-09-17 03:08:52 : INFO] - Cache for homepage has been purged due to change in the Homepage displays options, triggered by action: update_option_page_on_front 
+[2025-09-17 03:10:28 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 03:10:28 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "home page" has been purged, triggered by action: save_post 
+[2025-09-17 03:11:00 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 03:11:00 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "home page" has been purged, triggered by action: save_post 
+[2025-09-17 03:11:23 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 03:11:23 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "home page" has been purged, triggered by action: save_post 
+[2025-09-17 03:11:55 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 03:11:55 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "home page" has been purged, triggered by action: save_post 
+[2025-09-17 03:14:23 : INFO] - Cache for homepage has been purged due to change in the Homepage displays options, triggered by action: update_option_page_on_front 
+[2025-09-17 03:14:23 : INFO] - Cache for URL: http://localhost/thiepmoi-online/home-page/ has been purged, triggered by action: wp_trash_post 
+[2025-09-17 03:16:34 : INFO] - Cache for URL: http://localhost/thiepmoi-online/home-page/ has been purged, triggered by action: save_post 
+[2025-09-17 03:16:34 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "home page" has been purged, triggered by action: save_post 
+[2025-09-17 03:17:58 : INFO] - Cache for URL: http://localhost/thiepmoi-online/home-page/ has been purged, triggered by action: save_post 
+[2025-09-17 03:17:58 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "" has been purged, triggered by action: save_post 
+[2025-09-17 03:21:50 : INFO] - Cache for URL: http://localhost/thiepmoi-online/home-page/ has been purged, triggered by action: save_post 
+[2025-09-17 03:21:50 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-17 03:22:17 : INFO] - Cache for homepage has been purged due to change in the Homepage displays options, triggered by action: update_option_page_on_front 
+[2025-09-17 03:41:37 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 03:41:37 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-17 03:41:38 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 03:41:38 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-17 03:41:38 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 03:41:38 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-17 03:43:21 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 03:43:21 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-17 03:43:51 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 03:43:51 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-17 04:09:28 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 04:09:28 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-17 04:09:28 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 04:09:28 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-17 04:09:28 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 04:09:28 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-17 04:15:21 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 04:15:21 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-17 04:15:21 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 04:15:21 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-17 04:15:21 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-17 04:15:21 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
