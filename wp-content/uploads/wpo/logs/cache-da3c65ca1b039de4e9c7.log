@@ -1067,3 +1067,14 @@
 [2025-09-25 09:05:52 : INFO] - Cache for author page URL: https://hieugnh.online/author/admin/ associated with post_type: elementor_library and Title: "Qr code" has been purged, triggered by action: save_post 
 [2025-09-25 09:05:53 : INFO] - Cache for URL: https://hieugnh.online/?elementor_library=qr-code has been purged, triggered by action: save_post 
 [2025-09-25 09:05:53 : INFO] - Cache for author page URL: https://hieugnh.online/author/admin/ associated with post_type: elementor_library and Title: "Qr code" has been purged, triggered by action: save_post 
+[2025-09-26 09:01:32 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-09-26 09:01:50 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-09-26 13:50:25 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-09-26 13:50:52 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-09-26 13:51:02 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-09-26 14:03:20 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-26 14:03:20 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-26 14:03:20 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-26 14:03:20 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-26 14:03:21 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
+[2025-09-26 14:03:21 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
