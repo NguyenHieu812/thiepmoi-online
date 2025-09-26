@@ -1,0 +1,241 @@
+Log created at 2025-09-24 15:28:05
+2025-09-24 15:28:05	 PHP 7.4.29	{
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute' of service 'sheets.googleapis.com' for consumer 'project_number:343006833383'.",
+    "errors": [
+      {
+        "message": "Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute' of service 'sheets.googleapis.com' for consumer 'project_number:343006833383'.",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "RATE_LIMIT_EXCEEDED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "quota_location": "global",
+          "consumer": "projects/343006833383",
+          "quota_metric": "sheets.googleapis.com/read_requests",
+          "service": "sheets.googleapis.com",
+          "quota_limit": "ReadRequestsPerMinutePerProject",
+          "quota_unit": "1/min/{project}",
+          "quota_limit_value": "300"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Request a higher quota limit.",
+            "url": "https://cloud.google.com/docs/quotas/help/request_increase"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-09-25 08:20:53	 PHP 7.4.29	{
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute' of service 'sheets.googleapis.com' for consumer 'project_number:343006833383'.",
+    "errors": [
+      {
+        "message": "Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute' of service 'sheets.googleapis.com' for consumer 'project_number:343006833383'.",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "RATE_LIMIT_EXCEEDED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/343006833383",
+          "quota_metric": "sheets.googleapis.com/read_requests",
+          "quota_limit": "ReadRequestsPerMinutePerProject",
+          "quota_location": "global",
+          "quota_limit_value": "300",
+          "quota_unit": "1/min/{project}",
+          "service": "sheets.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Request a higher quota limit.",
+            "url": "https://cloud.google.com/docs/quotas/help/request_increase"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-09-25 08:20:56	 PHP 7.4.29	{
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute' of service 'sheets.googleapis.com' for consumer 'project_number:343006833383'.",
+    "errors": [
+      {
+        "message": "Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute' of service 'sheets.googleapis.com' for consumer 'project_number:343006833383'.",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "RATE_LIMIT_EXCEEDED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "quota_location": "global",
+          "quota_metric": "sheets.googleapis.com/read_requests",
+          "quota_unit": "1/min/{project}",
+          "service": "sheets.googleapis.com",
+          "quota_limit_value": "300",
+          "consumer": "projects/343006833383",
+          "quota_limit": "ReadRequestsPerMinutePerProject"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Request a higher quota limit.",
+            "url": "https://cloud.google.com/docs/quotas/help/request_increase"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-09-25 08:21:00	 PHP 7.4.29	{
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute' of service 'sheets.googleapis.com' for consumer 'project_number:343006833383'.",
+    "errors": [
+      {
+        "message": "Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute' of service 'sheets.googleapis.com' for consumer 'project_number:343006833383'.",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "RATE_LIMIT_EXCEEDED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "quota_metric": "sheets.googleapis.com/read_requests",
+          "quota_location": "global",
+          "consumer": "projects/343006833383",
+          "quota_limit_value": "300",
+          "quota_unit": "1/min/{project}",
+          "service": "sheets.googleapis.com",
+          "quota_limit": "ReadRequestsPerMinutePerProject"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Request a higher quota limit.",
+            "url": "https://cloud.google.com/docs/quotas/help/request_increase"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-09-25 08:21:02	 PHP 7.4.29	{
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute' of service 'sheets.googleapis.com' for consumer 'project_number:343006833383'.",
+    "errors": [
+      {
+        "message": "Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute' of service 'sheets.googleapis.com' for consumer 'project_number:343006833383'.",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "RATE_LIMIT_EXCEEDED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/343006833383",
+          "quota_unit": "1/min/{project}",
+          "quota_location": "global",
+          "quota_limit_value": "300",
+          "quota_limit": "ReadRequestsPerMinutePerProject",
+          "quota_metric": "sheets.googleapis.com/read_requests",
+          "service": "sheets.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Request a higher quota limit.",
+            "url": "https://cloud.google.com/docs/quotas/help/request_increase"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-09-25 08:21:05	 PHP 7.4.29	{
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute' of service 'sheets.googleapis.com' for consumer 'project_number:343006833383'.",
+    "errors": [
+      {
+        "message": "Quota exceeded for quota metric 'Read requests' and limit 'Read requests per minute' of service 'sheets.googleapis.com' for consumer 'project_number:343006833383'.",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "RATE_LIMIT_EXCEEDED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "quota_metric": "sheets.googleapis.com/read_requests",
+          "consumer": "projects/343006833383",
+          "service": "sheets.googleapis.com",
+          "quota_location": "global",
+          "quota_limit_value": "300",
+          "quota_unit": "1/min/{project}",
+          "quota_limit": "ReadRequestsPerMinutePerProject"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Request a higher quota limit.",
+            "url": "https://cloud.google.com/docs/quotas/help/request_increase"
+          }
+        ]
+      }
+    ]
+  }
+}
+
