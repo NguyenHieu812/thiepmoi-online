@@ -1078,3 +1078,4 @@
 [2025-09-26 14:03:20 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
 [2025-09-26 14:03:21 : INFO] - Cache for URL: http://localhost/thiepmoi-online/ has been purged, triggered by action: save_post 
 [2025-09-26 14:03:21 : INFO] - Cache for author page URL: http://localhost/thiepmoi-online/author/admin/ associated with post_type: page and Title: "homePage" has been purged, triggered by action: save_post 
+[2025-09-27 08:10:34 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 

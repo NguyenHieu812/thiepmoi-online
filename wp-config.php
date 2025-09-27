@@ -21,7 +21,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'kinhmattam_wedding');
+define('DB_NAME', 'thiepmoionline');
 
 /** Database username */
 define('DB_USER', 'root');
@@ -90,8 +90,8 @@ define('WP_DEBUG', false);
 
 /* Add any custom values between this line and the "stop editing" line. */
 
-define('WP_HOME', 'http://localhost/thiepmoi-online');
-define('WP_SITEURL', 'http://localhost/thiepmoi-online');
+define('WP_HOME', 'http://hieugnh.online');
+define('WP_SITEURL', 'http://hieugnh.online');
 
 /* That's all, stop editing! Happy publishing. */
 
